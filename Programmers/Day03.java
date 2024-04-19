@@ -1,4 +1,4 @@
-public class Day02{
+public class Day03{
     public String Quiz01(String str1, String str2){
         //1. 문자열 섞기
         String answer = "";
