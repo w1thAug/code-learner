@@ -1,4 +1,4 @@
-public class Day15
+public class Day16
 {
     public string Quiz01(string myString) 
     {
@@ -12,7 +12,7 @@ public class Day15
         return myString.ToLower();
     }
 
-    public string[] Quiz03(stringp[ strArr]) 
+    public string[] Quiz03(string[] strArr) 
     {
         // 3. 배열에서 문자열 대소문자 변환하기
         List<string> answer = new List<string>();
